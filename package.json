@@ -1,0 +1,21 @@
+{
+   "name": "lista-person-favoritos",
+   "version": "1.0.0",
+   "description": "É um desafio do #7DaysOfCode onde preciso criar um banco de dados de personagens favoritos meus e para cada personagem preciso armazenar as características desses (originalmente é para cadastrar heróis da Marvel, mas resolvi ir além).<br>\r Para mais desafios, entre no [#7DaysOfCode](https://7daysofcode.io/).",
+   "main": "index.js",
+   "type": "module",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Frolber/Lista-person-favoritos.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/Frolber/Lista-person-favoritos/issues"
+   },
+   "homepage": "https://github.com/Frolber/Lista-person-favoritos#readme"
+}
