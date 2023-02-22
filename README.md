@@ -7,4 +7,4 @@ Para mais desafios, entre no [#7DaysOfCode](https://7daysofcode.io/).
 
 ## O que utilizei para o desafio?
 
-Estou aprendendo a linguagem de JavaScript/Node.js, então vou utilizar o Express para fazer a montagem do API e mongoose para fazer os Schemas e conexão com mongoDB.
+Estou aprendendo a linguagem de JavaScript/Node.js, então vou utilizar o Express para fazer a montagem do API, nodemon para atualizar arquivos sem tirar o servidor local do ar e mongoose para fazer os Schemas e conexão com mongoDB - MongoDB é o Atlas (servidor Web).
