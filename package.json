@@ -17,5 +17,8 @@
    "bugs": {
       "url": "https://github.com/Frolber/Lista-person-favoritos/issues"
    },
-   "homepage": "https://github.com/Frolber/Lista-person-favoritos#readme"
+   "homepage": "https://github.com/Frolber/Lista-person-favoritos#readme",
+   "devDependencies": {
+      "nodemon": "^2.0.20"
+   }
 }
